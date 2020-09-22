@@ -1,3 +1,5 @@
+This React application is a grocery list tracker. User can add items and quantity per item as well as check items.
+
 # Grocery-List-React-JS
 
 File Descriptions:
